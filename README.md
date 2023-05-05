@@ -25,14 +25,19 @@ Set an appropriate name for you app and then follow the commands listed below - 
 3. npm install -g firebase-tools
 4. firebase login
 
+--=
+
 After that we build our static site with :
 
 5. npm run build
+
+---
 
 Once the build is successful we are ready to initialise the firebase, to do we run the following :
 
 6. firebase init
 
+---
 
 This should give us a few options:
 
@@ -42,6 +47,8 @@ This should give us a few options:
 
 - ? Which Firebase features do you want to set up for this directory? Press Space to select features, then Enter to
 confirm your choices. <b> Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys </b>  <br>
+
+---
 
 <i>Hosting Setup: </i>
 - ? Please select an option: <b> Use an existing project </b>  <br>
@@ -58,4 +65,12 @@ Finally we can deploy our app using :
 
 7. firebase deploy
 
+---
+
+If you make any changes after this to your app remember to rebuild and the re-deploy the app using :
+- npm run build
+- firebase deploy
+
 </details>
+
+
