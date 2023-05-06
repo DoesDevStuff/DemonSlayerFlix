@@ -88,7 +88,7 @@ Here's what you need to do to get this running locally on your computer.
 <b> How to hide the API Key when uploading to any opensource platform : </b>
 1. `npm install dotenv`
 2. Create a .env file in the root directory here is where we store the secret key.
-3. <b> IMP:  every variable you define should start with REACT_APP_ </b>  eg: `REACT_APP_ACCESS_KEY=<insert_your_api_token>`
+3. <b> (IMP:  every variable you define in the .env file should start with REACT_APP_) </b> <br> eg: `REACT_APP_ACCESS_KEY=<insert_your_api_token>`
 4. Now you can use the variable in any of your components like so
 `const API_KEY = process.env.REACT_APP_ACCESS_KEY;` <br>
 The name should match the key given in the .env file
