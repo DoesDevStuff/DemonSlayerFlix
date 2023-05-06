@@ -3,8 +3,7 @@ import './Row.css';
 import requests from "../request";
 import axios from '../axios'
 
-// this is similar to what we did for the banners minus the address to the banner.jpg obviously
-const base_url = "https://image.tmdb.org/t/p/original" 
+const base_url = "https://image.tmdb.org/t/p/original"
 
 function Row({ title }) {
 
@@ -13,9 +12,8 @@ function Row({ title }) {
     useEffect(() => {
         async function fetchData() {
             const request = await axios.get(requests.fetchDemonSlayerImages);
-            setImages(request.data.backdrops.sort(() => Math.random() - 0.5)
+            setImages(request.data.posters.sort(() => Math.random() - 0.5)
             );
-            // console.log(request.data.backdrops)
             return request;
         } fetchData();
     }, []);

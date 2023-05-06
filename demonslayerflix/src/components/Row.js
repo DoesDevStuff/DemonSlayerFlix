@@ -3,8 +3,7 @@ import './Row.css';
 import requests from "../request";
 import axios from '../axios'
 
-// this is similar to what we did for the banners minus the address to the banner.jpg obviously
-const base_url = "https://image.tmdb.org/t/p/original" 
+const base_url = "https://image.tmdb.org/t/p/original"
 
 function Row({ title }) {
 
