@@ -73,9 +73,8 @@ If you make any changes after this to your app remember to rebuild and the re-de
 
 </details>
 
----
 
-## Built With
+# Built With
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [TMDB (The Movie Database) API](https://developers.themoviedb.org/3/getting-started)
 - Hosted on [Firebase](https://firebase.google.com/docs/hosting)
