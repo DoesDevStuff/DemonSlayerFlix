@@ -73,6 +73,21 @@ If you make any changes after this to your app remember to rebuild and the re-de
 
 </details>
 
+# Frontend Clone - HomePage
+
+**LIVE DEMO** - [demonslayerflix-b1913.web.app](https://demonslayerflix-b1913.web.app/) OR [demonslayerflix-b1913.firebaseapp.com](https://demonslayerflix-b1913.firebaseapp.com/)
+
+<p align="center">
+    <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=FFFFFF"/>
+    <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-039BE5?style=flat&logo=firebase&logoColor=FFA611"/>
+</p>
+
+<p align="center">
+    <img alt="Screenshot" src="./public/img/readme/screenshot-DEMONSLAYERFLIX.png" width="700px">
+</p>
+
+---
 
 # Built With
 - [React JS](https://reactjs.org/docs/getting-started.html)
