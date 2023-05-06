@@ -2,7 +2,7 @@
 DemonSlayerflix is a frontend Netflix clone but Demon Slayer-fied. It is built with React JS and uses the TMDB API to pull in data and images.
 
 # Introduction
-This is a practice project to brush up on my skills in creating a react application and deploying it with AWS. 
+This is a practice project to brush up on my skills in creating a react application and deploying it with firebase. This is DemonSlayerFlix, a frontend clone of Netflix's home page made just for the amazing anime series [Demon Slayer](https://www.imdb.com/title/tt9335498/)
 
 <details><summary>The basics</summary>
 
