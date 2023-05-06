@@ -84,7 +84,7 @@ If you make any changes after this to your app remember to rebuild and the re-de
 </p>
 
 <p align="center">
-    <img alt="Screenshot" src="./public/img/readme/screenshot-DEMONSLAYERFLIX.png" width="700px">
+    <img alt="Screenshot" src="demonslayerflix/public/img/readme/screenshot-DEMONSLAYERFLIX.png" width="700px">
 </p>
 
 ---
